@@ -1,0 +1,169 @@
+
+header {
+    background-color: #9c6e28;
+    padding: 2px;
+    margin: 20px;
+
+}
+
+header ul{
+    list-style-type: none;
+    padding: 0;
+}
+header ul h1{
+    color:rgba(0, 0, 0,) ;
+    font-size: xx-large;
+    text-align: center;
+}
+
+header ul li{
+    margin-left: 150px;
+    padding: 0;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+header ul li a{
+    color:rgba(0, 0, 0,);
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    margin: auto;
+
+}
+
+header ul li a:hover{
+    color: #0c0c0c;
+}
+    
+
+body {
+    padding: 30px;
+    margin: 0;
+   
+
+}
+.intro {
+    width: 90%;
+    height: 50%;
+    margin: 0 auto;
+    min-height: 700px;
+    background-color: rgba(134, 117, 17, 0.8);
+    border-radius: 20px;
+    padding: 20px;
+    font-size: large;
+}
+.card {
+    width: 30%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.card-head {
+    background-color:  #d1a52d;
+    ;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.card-description {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card-body {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.card-head {
+   
+
+    padding: 25px 25px 25px 25px;
+
+    
+}
+
+.card-head img {
+    border-radius: 50%;
+
+    border: 10px solid #fff;
+
+
+}
+.card-body{
+    padding: 10px;
+}
+
+.card-body h5 {
+    text-align: center;
+    font-size: 24px;
+}
+
+.card-body p {
+    text-align: center;
+    color: gray;
+}
+
+.card-body .card-body-button {
+    width: 100px;
+    text-align: center;
+    background-color: #d1a52d;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 90px;
+}
+
+.card-body .card-body-button a {
+    color: white;
+    text-decoration: none;
+}
+
+.card-body .card-body-button:hover {
+    background-color: darkorange;
+}
+section article{
+    display: inline-block;
+    width: 1000px;
+    margin-right: 10px;
+}
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(https://ae01.alicdn.com/kf/HTB17LeVX4n1gK0jSZKPq6xvUXXae/Bacal-Custom-Any-Size-Mural-Wallpaper-3D-Abstract-Gym-Geometry-Wallpaper-Black-Yellow-Living-Room-Sofa.jpg_Q90.jpg_.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+section h2{
+    color: rgb(255, 255, 255);
+    text-decoration: dashed;
+}
+
+section article{
+    display: inline-block;
+    width: 800px;
+    margin: 20px;
+}
+main{
+    min-height: 400px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: #9c6e28;
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+}
